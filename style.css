@@ -1,0 +1,12 @@
+div{
+    border: 5px solid black;
+    padding: 2px 5px 10px;
+    background-color: rgb(244, 109, 59);
+}
+
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color: lime;
+}
